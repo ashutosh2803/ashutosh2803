@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [ashuisalive.medium.com](ashuisalive.medium.com)
 
-- 💬 Ask me about **react, node, data structures**
+- 💬 Ask me about **React, NodeJs, Data Structures**
 
 - 📫 How to reach me **ashuisalive@gmail.com**
 
@@ -35,11 +35,9 @@
 ## :construction_worker: Stats So Far 
 </br>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=therealdrtroll&show_icons=true&count_private=true&theme=radical" width="500"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh2803&show_icons=true&count_private=true&theme=radical" width="500"></a>
 </p>
 </br>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh2803&theme=default" alt="ashutosh2803" /></p>
 
 ## :earth_asia: Find me else where
 </br>
