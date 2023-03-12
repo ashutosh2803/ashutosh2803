@@ -4,7 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutosh2803&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh2803" /> </p>
 
-- Ex-Senior Analyst at Sogeti-Capgemini
+- 🏢 Ex-Senior Analyst at Capgemini
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📫 You can see my portfolio at [https://ashutoshkumar2803.netlify.app/](https://ashutoshkumar2803.netlify.app/)
