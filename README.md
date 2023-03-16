@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [ashuisalive.medium.com](ashuisalive.medium.com)
 
-- 💬 Ask me about **React, NodeJs, Data Structures**
+- 💬 Ask me about **React, Java, NodeJs, Data Structures**
 
 - 📫 How to reach me **ashuisalive@gmail.com**
 
