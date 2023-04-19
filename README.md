@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <h3 align="center">Businesss Process Consultant at Infosys</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashutosh2803&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh2803" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=ashutosh2803&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh2803" /> </p>
 
 - 🏢 Ex-Senior Analyst at Capgemini India
 
