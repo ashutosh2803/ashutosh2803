@@ -37,8 +37,8 @@
 ## :construction_worker: Stats So Far 
 </br>
 <p>
-  <a href='#'><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh2803&" width="500" alt="ashutosh2803" /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh2803&show_icons=true&count_private=true&theme=radical" alt="ashutosh2803" ></a>
+  <a href='#'><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh2803&" width="50%" alt="ashutosh2803" /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh2803&show_icons=true&count_private=true&theme=radical" alt="ashutosh2803" width="50%" ></a>
 </p>
 </br>
 
