@@ -13,14 +13,12 @@
 - 💬 Ask me about **React, Java, NodeJs, Data Structures**
 
 - 📫 How to reach me **ashuisalive@gmail.com**
-
+</br>
 
 <p align='center'>
  
 ## 🛠 Interests/Skills
-
  </br>
- 
 <div align='center'>
   
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -38,7 +36,6 @@
 </br>
 <p align="center">
   <a href='#'><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh2803&" width="500" alt="ashutosh2803" /></a>
-  </br>
   </br>
   </br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh2803&show_icons=true&count_private=true&theme=radical" alt="ashutosh2803" width="500" ></a>
