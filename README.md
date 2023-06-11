@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Java, NodeJs, Data Structures**
 
-- 📫 How to reac me **ashuisalive@gmail.com**
+- 📫 How to reach me **ashuisalive@gmail.com**
 </br>
 
 <p align='center'>
