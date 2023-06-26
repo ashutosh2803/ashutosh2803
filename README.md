@@ -32,7 +32,7 @@
 </div> 
 </br>
 
-## :construction_worker: Stats So Far 
+## :construction_worker: Stats So Far
 </br>
 <p align="center">
   </br>
