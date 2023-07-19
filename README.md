@@ -6,7 +6,7 @@
 
 - 🏢 Ex-Senior Analyst at Capgemini India.
 
-- 📫 You can see visit portfolio at [https://ashutoshkumarportfolio.netlify.app/](https://ashutoshkumarportfolio.netlify.app/)
+- 📫 You can visit portfolio at [https://ashutoshkumarportfolio.netlify.app/](https://ashutoshkumarportfolio.netlify.app/)
 
 - 📝 I regularly write articles on [ashuisalive.medium.com](ashuisalive.medium.com)
 
