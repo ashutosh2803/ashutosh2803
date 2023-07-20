@@ -8,7 +8,7 @@
 
 - 📫 You can visit portfolio at [https://ashutoshkumarportfolio.netlify.app/](https://ashutoshkumarportfolio.netlify.app/)
 
-- 📝 I regularly write articles on [ashuisalive.medium.com](ashuisalive.medium.com)
+- 📝 I regularly write new articles on [ashuisalive.medium.com](ashuisalive.medium.com)
 
 - 💬 Ask me about **React, Java, NodeJs, Data Structures**
 
