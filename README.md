@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Kumar</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<h3 align="center">Associate Consultant at Infosys</h3>
+<h3 align="center">Software Engineering Lead at Persistent Systems</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=ashutosh2803&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh2803" /> </p>
 
+- 🏢 Ex-Associate Consultant at Infosys.
+- 
 - 🏢 Ex-Senior Analyst at Capgemini India.
 
 - 📫 You can visit portfolio at [https://ashutoshkumarportfolio.netlify.app/](https://ashutoshkumarportfolio.netlify.app/)
 
 - 📝 I regularly write new articles on [ashuisalive.medium.com](ashuisalive.medium.com)
 
-- 💬 Ask me about **React, Java, NodeJs, Data Structures**
+- 💬 Ask me about **React, Java, NodeJS, Data Structures**
 
 - 📫 How to reach me **ashuisalive@gmail.com**
 </br>
