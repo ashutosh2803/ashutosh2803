@@ -6,7 +6,7 @@
 
 - 🏢 Ex-Associate Consultant at Infosys.
  
-- 🏢 Ex-Senior Analyst at Capgemini India.
+- 🏢 Ex-Senior Analyst at Capgemini.
 
 - 📫 You can visit portfolio at [https://ashutoshkumarportfolio.netlify.app/](https://ashutoshkumarportfolio.netlify.app/)
 
