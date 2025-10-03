@@ -21,8 +21,9 @@
 </br>
 
 <p align='center'>
- 
-## 🛠 Interests/Skills
+<h4 align="center">
+🛠 Interests/Skills &nbsp;
+</h4>
  </br>
 <div align="center" >
   
@@ -37,14 +38,13 @@
    ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
     ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
      ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-   	
-
-
   
   </div>
 </br>
 
-## :construction_worker: Stats So Far
+<h4 align="center">
+:construction_worker: Stats So Far &nbsp;
+</h4>
 </br>
 <p align="center">
   </br>
@@ -55,19 +55,10 @@
 <h4 align="center">
 Connect with Me 🤝🏻 &nbsp;
 </h4>
-
-<p align="center">
-<a href="https://linkedin.com/in/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashutosh2803" height="50" width="50" /></a>
-<a href="https://medium.com/@ashuisalive" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ashuisalive" height="50" width="50" /></a>
-<a href="https://www.hackerrank.com/ashutosh2803" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="ashutosh2803" height="50" width="50" /></a>
-</p>
  
  <div align="center">
  <a href="https://linkedin.com/in/ashutosh2803">
     <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/linkedin.svg" alt="LinkedIn" title="LinkedIn" width="35" height="35"> </a>
-	
-<a href="https://www.hackerrank.com/ashutosh2803">
-    <img src="https://raw.githubusercontent.com/System-Glitch/System-Glitch/master/assets/img/svg/hackerrank.svg" alt="Hackerrank" title="Hackerrank" width="35" height="35"> </a>
  </div>
 
 
