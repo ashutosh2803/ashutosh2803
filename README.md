@@ -42,7 +42,7 @@
   </div>
 </br>
 
-<h4 align="center">
+<!-- <h4 align="center">
 :construction_worker: Stats So Far &nbsp;
 </h4>
 </br>
@@ -50,7 +50,7 @@
   </br>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ashutosh2803&show_icons=true&count_private=true&theme=radical" alt="ashutosh2803" width="500" ></a>
 </p>
-</br>
+</br> -->
 
 <h4 align="center">
 Connect with Me 🤝🏻 &nbsp;
